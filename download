@@ -1,0 +1,4 @@
+# Data files are not committed - see data/README.md
+data/*.csv
+.ipynb_checkpoints/
+__pycache__/
